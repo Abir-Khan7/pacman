@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 9a3fccf07e9b145f7ab3ac6a369badff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1486285601449999665
+    second: GhostsFinal_0
+  - first:
+      213: -323761483132066543
+    second: GhostsFinal_1
+  - first:
+      213: -5150748043517180531
+    second: GhostsFinal_2
+  - first:
+      213: -5466902225274762792
+    second: GhostsFinal_3
+  - first:
+      213: -6926348411480832984
+    second: GhostsFinal_4
+  - first:
+      213: 8903068571947048887
+    second: GhostsFinal_5
+  - first:
+      213: -1754703521550186117
+    second: GhostsFinal_6
+  - first:
+      213: 7040439181696825552
+    second: GhostsFinal_7
+  - first:
+      213: 1776687958320989974
+    second: GhostsFinal_8
+  - first:
+      213: 1838795675746276890
+    second: GhostsFinal_9
+  - first:
+      213: -593601677706737264
+    second: GhostsFinal_10
+  - first:
+      213: 6156324745412050391
+    second: GhostsFinal_11
+  - first:
+      213: -6335549399304260283
+    second: GhostsFinal_12
+  - first:
+      213: -7437200198211653545
+    second: GhostsFinal_13
+  - first:
+      213: 5245323097079806588
+    second: GhostsFinal_14
+  - first:
+      213: -3857001581553327598
+    second: GhostsFinal_15
+  - first:
+      213: -4594474694442314144
+    second: GhostsFinal_16
+  - first:
+      213: -1316406128686153299
+    second: GhostsFinal_17
+  - first:
+      213: 3515433586489357246
+    second: GhostsFinal_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhostsFinal_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc28bc2ce17af5be0800000000000000
+      internalID: -1486285601449999665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 269
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115a5fd75a4c18bf0800000000000000
+      internalID: -323761483132066543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 269
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ce9ab1fdd488b0800000000000000
+      internalID: -5150748043517180531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 269
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d984b81469a124b0800000000000000
+      internalID: -5466902225274762792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 205
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824081f21daa0ef90800000000000000
+      internalID: -6926348411480832984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 205
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf19d912bd0e8b70800000000000000
+      internalID: 8903068571947048887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 205
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79cfd7a17a06a7e0800000000000000
+      internalID: -1754703521550186117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 205
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8f7c7422aa4b160800000000000000
+      internalID: 7040439181696825552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 141
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617cf68e84018a810800000000000000
+      internalID: 1776687958320989974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16916bbce6b48910800000000000000
+      internalID: 1838795675746276890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 141
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099c63e4b6a13c7f0800000000000000
+      internalID: -593601677706737264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 141
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd7b340db8af6550800000000000000
+      internalID: 6156324745412050391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 77
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b785736b9318a0800000000000000
+      internalID: -6335549399304260283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750312ed2d1c9c890800000000000000
+      internalID: -7437200198211653545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 77
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af79dd0912bc840800000000000000
+      internalID: 5245323097079806588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 77
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e4613f7d297ac0800000000000000
+      internalID: -3857001581553327598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669e34ab952d30c0800000000000000
+      internalID: -4594474694442314144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 13
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1c38fb99f2bbde0800000000000000
+      internalID: -1316406128686153299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsFinal_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3fc2aa83459c030800000000000000
+      internalID: 3515433586489357246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GhostsFinal_0: -1486285601449999665
+      GhostsFinal_1: -323761483132066543
+      GhostsFinal_10: -593601677706737264
+      GhostsFinal_11: 6156324745412050391
+      GhostsFinal_12: -6335549399304260283
+      GhostsFinal_13: -7437200198211653545
+      GhostsFinal_14: 5245323097079806588
+      GhostsFinal_15: -3857001581553327598
+      GhostsFinal_16: -4594474694442314144
+      GhostsFinal_17: -1316406128686153299
+      GhostsFinal_18: 3515433586489357246
+      GhostsFinal_2: -5150748043517180531
+      GhostsFinal_3: -5466902225274762792
+      GhostsFinal_4: -6926348411480832984
+      GhostsFinal_5: 8903068571947048887
+      GhostsFinal_6: -1754703521550186117
+      GhostsFinal_7: 7040439181696825552
+      GhostsFinal_8: 1776687958320989974
+      GhostsFinal_9: 1838795675746276890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

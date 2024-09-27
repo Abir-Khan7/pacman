@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 7e0f56b0917de4411b5676632a8fe58a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5752295341413153800
+    second: PacStudentFinal_0
+  - first:
+      213: 380802641444924731
+    second: PacStudentFinal_1
+  - first:
+      213: 550488095767196008
+    second: PacStudentFinal_2
+  - first:
+      213: 8583098444125822540
+    second: PacStudentFinal_3
+  - first:
+      213: 767968902703254124
+    second: PacStudentFinal_4
+  - first:
+      213: -1636218294874186611
+    second: PacStudentFinal_5
+  - first:
+      213: 8942180345902531303
+    second: PacStudentFinal_6
+  - first:
+      213: -3760396680164077913
+    second: PacStudentFinal_7
+  - first:
+      213: 3550307156903272866
+    second: PacStudentFinal_8
+  - first:
+      213: -7688512475243026682
+    second: PacStudentFinal_9
+  - first:
+      213: 1996420575726144366
+    second: PacStudentFinal_10
+  - first:
+      213: 1804714196115644343
+    second: PacStudentFinal_11
+  - first:
+      213: -7361168420197705414
+    second: PacStudentFinal_12
+  - first:
+      213: -3279113901728256820
+    second: PacStudentFinal_13
+  - first:
+      213: 4000591744349972046
+    second: PacStudentFinal_14
+  - first:
+      213: 2468566984743137305
+    second: PacStudentFinal_15
+  - first:
+      213: -7733136718526398138
+    second: PacStudentFinal_16
+  - first:
+      213: 8113882898562368154
+    second: PacStudentFinal_17
+  - first:
+      213: 4628851368666607341
+    second: PacStudentFinal_18
+  - first:
+      213: -7517398796420418118
+    second: PacStudentFinal_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PacStudentFinal_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 424
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34feb2dddbb20b0800000000000000
+      internalID: -5752295341413153800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3deadc1cf1e84500800000000000000
+      internalID: 380802641444924731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 424
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861f849a10ab3a700800000000000000
+      internalID: 550488095767196008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 424
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed35a4f8a4d1770800000000000000
+      internalID: 8583098444125822540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 324
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8c2ce5af58aa00800000000000000
+      internalID: 767968902703254124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 324
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c570f312cfa49e0800000000000000
+      internalID: -1636218294874186611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 324
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2000b95a1091c70800000000000000
+      internalID: 8942180345902531303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 324
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae0340942360dbc0800000000000000
+      internalID: -3760396680164077913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 212
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12fb28c89354130800000000000000
+      internalID: 3550307156903272866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 212
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607eaf5a3aaec4590800000000000000
+      internalID: -7688512475243026682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0076afe5b4bb10800000000000000
+      internalID: 1996420575726144366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 212
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfd394eff1ab0910800000000000000
+      internalID: 1804714196115644343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39da4ea250e7d990800000000000000
+      internalID: -7361168420197705414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 112
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2175a74f3e72d0800000000000000
+      internalID: -3279113901728256820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462755def4f48730800000000000000
+      internalID: 4000591744349972046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 112
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9103fd5f79c124220800000000000000
+      internalID: 2468566984743137305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64144bc50216ea490800000000000000
+      internalID: -7733136718526398138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a924dedc18d4a9070800000000000000
+      internalID: 8113882898562368154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 28
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5499895, y: 0.46500778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee247b8bcbfc3040800000000000000
+      internalID: 4628851368666607341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudentFinal_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab57960af95dca790800000000000000
+      internalID: -7517398796420418118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 195f5605f618c499dbca169eda8ca5d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PacStudentFinal_0: -5752295341413153800
+      PacStudentFinal_1: 380802641444924731
+      PacStudentFinal_10: 1996420575726144366
+      PacStudentFinal_11: 1804714196115644343
+      PacStudentFinal_12: -7361168420197705414
+      PacStudentFinal_13: -3279113901728256820
+      PacStudentFinal_14: 4000591744349972046
+      PacStudentFinal_15: 2468566984743137305
+      PacStudentFinal_16: -7733136718526398138
+      PacStudentFinal_17: 8113882898562368154
+      PacStudentFinal_18: 4628851368666607341
+      PacStudentFinal_19: -7517398796420418118
+      PacStudentFinal_2: 550488095767196008
+      PacStudentFinal_3: 8583098444125822540
+      PacStudentFinal_4: 767968902703254124
+      PacStudentFinal_5: -1636218294874186611
+      PacStudentFinal_6: 8942180345902531303
+      PacStudentFinal_7: -3760396680164077913
+      PacStudentFinal_8: 3550307156903272866
+      PacStudentFinal_9: -7688512475243026682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
