@@ -47840,6 +47840,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1678787226}
   - component: {fileID: 1678787225}
+  - component: {fileID: 1678787227}
   m_Layer: 0
   m_Name: Managers
   m_TagString: Untagged
@@ -47874,6 +47875,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1678787227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1678787224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f60d60e5a7b4cdfac484bfdd63f5be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1682564435
 GameObject:
   m_ObjectHideFlags: 0
@@ -57228,6 +57241,7 @@ GameObject:
   - component: {fileID: 1961499078}
   - component: {fileID: 1961499077}
   - component: {fileID: 1961499076}
+  - component: {fileID: 1961499079}
   m_Layer: 0
   m_Name: PacStudentFinal_0
   m_TagString: Untagged
@@ -57326,6 +57340,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1961499079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961499075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cb0bf36e23714166bafa6eb5b4bee75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweener: {fileID: 1678787227}
 --- !u!1 &1963516322
 GameObject:
   m_ObjectHideFlags: 0
