@@ -18,6 +18,7 @@ public class playMusic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Loop music
         if (!(audioSource.isPlaying))
         {
             audioSource.clip = music;
